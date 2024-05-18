@@ -1,1 +1,1 @@
-Favor de jugar en pantalla completa
+# Favor de jugar en pantalla completa
